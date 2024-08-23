@@ -1,0 +1,142 @@
+PS C:\Users\tanuj\OneDrive\Desktop>                                                                                                       >  & 'c:\Users\tanuj\AppData\Local\Programs\Python\Python37\python.exe' 'c:\Users\tanuj\.vscode\extensions\ms-python.debugpy-2024.10.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '54418' '--' 'c:\Users\tanuj\OneDrive\Desktop\todolistt.py' 
+Previous to-do list cleared. Starting with a fresh list.
+Welcome to your personal to-do list manager!
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 3
+Your to-do list is empty!
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 1
+What task would you like to add? read a book  
+Task 'read a book' has been added to your list.
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 1
+What task would you like to add? watch tv
+Task 'watch tv' has been added to your list.
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 1
+What task would you like to add? make a cup of coffee
+Task 'make a cup of coffee' has been added to your list.
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 4
+Enter the number of the task you completed: 1
+Task 'read a book' has been marked as done.
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 3
+Here are your current tasks:
+1. read a book [Done]
+2. watch tv [Not Done]
+3. make a cup of coffee [Not Done]
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 2
+Enter the number of the task you want to delete: 2
+Task 'watch tv' has been removed from your list.
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 3
+Here are your current tasks:
+1. read a book [Done]
+2. make a cup of coffee [Not Done]
+
+What would you like to do?
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 2
+Enter the number of the task you want to delete: 2
+Task 'watch tv' has been removed from your list.
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 3
+Here are your current tasks:
+1. read a book [Done]
+2. make a cup of coffee [Not Done]
+
+What would you like to do?
+
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 3
+Here are your current tasks:
+1. read a book [Done]
+2. make a cup of coffee [Not Done]
+
+What would you like to do?
+3. View tasks
+4. Mark a task as done
+5. Exit
+Enter your choice: 3
+Here are your current tasks:
+1. read a book [Done]
+2. make a cup of coffee [Not Done]
+
+What would you like to do?
+2. make a cup of coffee [Not Done]
+
+What would you like to do?
+What would you like to do?
+1. Add a new task
+2. Delete a task
+3. View tasks
+4. Mark a task as done
+5. Exit
+4. Mark a task as done
+5. Exit
+5. Exit
+Enter your choice: 5
+Goodbye! Have a productive day!
